@@ -9,7 +9,7 @@ I'm working through this sheet to build a solid, structured foundation in DSA be
 🔲 In progress — 41/474 problems solved
 
 ## Topics Covered
-- 🔲 Learn the Basics
+- ✅ Learn the Basics
 - 🔲 Sorting Techniques
 - 🔲 Arrays
 - 🔲 Binary Search
