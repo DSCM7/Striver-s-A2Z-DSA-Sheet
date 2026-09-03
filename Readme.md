@@ -6,7 +6,7 @@ My solutions to [Striver's A2Z DSA Course/Sheet](https://takeuforward.org/strive
 I'm working through this sheet to build a solid, structured foundation in DSA before moving to more advanced practice. Problems are solved and organized topic-wise as I progress.
 
 ## Progress
-🔲 In progress — 41/474 problems solved
+🔲 In progress — 50/474 problems solved
 
 ## Topics Covered
 - ✅ Learn the Basics
